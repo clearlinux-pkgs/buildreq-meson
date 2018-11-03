@@ -8,6 +8,7 @@ Group:          base
 Requires:	meson
 Requires:	ninja
 Requires:	python3
+Requires:	libabigail
 
 %description
 Helper files 
