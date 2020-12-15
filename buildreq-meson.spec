@@ -1,6 +1,6 @@
 Name:           buildreq-meson
 Version:        1
-Release:        10
+Release:        11
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
