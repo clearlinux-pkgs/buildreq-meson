@@ -9,6 +9,7 @@ Requires:	meson
 Requires:	ninja
 Requires:	python3
 Requires:	libabigail
+Requires:	cmake
 
 %description
 Helper files 
